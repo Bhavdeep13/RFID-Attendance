@@ -8,6 +8,7 @@ RFID Attendence System using arduino uno
  - Buzzer
  - SD card reader
  - RTC Clock module
+ - RFID card and Reader
  
  Circuit Diagram
  
